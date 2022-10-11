@@ -1,6 +1,6 @@
 # Course Reports
 
-<span style="color:green">¡¡ Approved tes t!!</span>
+<span style="color:green">¡¡ Approved test !!</span>
 
 Implement a function that would process students, courses and instructors data (loaded from MongoDB collections) in order to produce information about students enrolled on courses (and store it in another MongoDB collection).
 
